@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18254830120",
+    "firebase_url": "https://scrumboard-b9fec.firebaseio.com",
+    "project_id": "scrumboard-b9fec",
+    "storage_bucket": "scrumboard-b9fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18254830120:android:b2f134e624eefb7c89b31d",
+        "android_client_info": {
+          "package_name": "com.example.scrumboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18254830120-iq2hsncrjblmpfhffenq9djvrflovq54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scrumboard",
+            "certificate_hash": "c2a6e81b6d5ab6887bf7040ed87743100750e8dc"
+          }
+        },
+        {
+          "client_id": "18254830120-osjidhl2o0bpnlbdm925r860tlvabd2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiPys0EcM0tP2gOwP4mvOAamj853BEC_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18254830120-osjidhl2o0bpnlbdm925r860tlvabd2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
